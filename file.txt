@@ -1,3 +1,7 @@
 Hello World!
 Hello sir
+<<<<<<< HEAD
 No means No
+=======
+Hello nigga
+>>>>>>> 4e0f667 (commit beta)
